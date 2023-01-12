@@ -1,0 +1,4 @@
+2022-10-23T20:34:36.812650+0300 - INFO: Generate random MAC? [y/n]: 
+2022-10-23T20:34:40.030916+0300 - INFO: Your answer is n.
+2022-10-23T20:34:40.031895+0300 - ERROR: ERROR: MAC address format is invalid.
+2022-10-23T20:34:40.032872+0300 - INFO: Finished...
